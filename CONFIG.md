@@ -13,9 +13,7 @@ kirowilk-ウイキロ
 
 # description
 
-> kirowilk　uikiroui　includes sensitive posts
-
-Cute animals feed
+kirowilk　uikiroui　includes sensitive posts
 
 # searchTerms
 
@@ -48,7 +46,7 @@ Cute animals feed
 >
 > Set to `false` if you have higher limits via a paid Cloudflare plan.
 
-true
+false
 
 # avatar
 
